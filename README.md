@@ -9,6 +9,9 @@ Technology Used:
 
 ![alt text](https://github.com/priyangamani/react-dropdown-todo/blob/master/screenshots/Screenshot%202020-07-23%20at%204.33.34%20AM.png)
 
+![alt text](https://github.com/priyangamani/react-dropdown-todo/blob/master/screenshots/Screenshot%202020-07-23%20at%204.34.40%20AM.png)
+
+![alt text](https://github.com/priyangamani/react-dropdown-todo/blob/master/screenshots/Screenshot%202020-07-23%20at%204.34.58%20AM.png)
 
 ## Available Scripts
 
@@ -26,6 +29,7 @@ You will also see any lint errors in the console.
 
 Launches the test runner in the interactive watch mode.<br />
 
+![alt text](https://github.com/priyangamani/react-dropdown-todo/blob/master/screenshots/Screenshot%202020-07-23%20at%204.34.40%20AM.png)
 
 
 
