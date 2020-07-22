@@ -31,8 +31,3 @@ Launches the test runner in the interactive watch mode.<br />
 
 ![alt text](https://github.com/priyangamani/react-dropdown-todo/blob/master/screenshots/Screenshot%202020-07-23%20at%204.30.04%20AM.png)
 
-
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
